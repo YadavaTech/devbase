@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://devbase.yadavatech.com/assets/logo.png" width="120" alt="DevBase Logo" />
+  <img src="https://devbase.yadavatech.com/storage/app/app-icon-1768483069.png" width="120" alt="DevBase Logo" />
 </p>
 
 <h1 align="center">DevBase</h1>
