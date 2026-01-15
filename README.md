@@ -1,37 +1,73 @@
-# DevBase 🚀
+<p align="center">
+  <img src="https://devbase.yadavatech.com/assets/logo.png" width="120" alt="DevBase Logo" />
+</p>
 
-DevBase is a developer-first platform providing production-ready SaaS starter kits,
-boilerplates, and tools to help developers and startups ship faster.
+<h1 align="center">DevBase</h1>
 
-🌐 Website: https://devbase.yadavatech.com
+<p align="center">
+  Build faster. Ship smarter. Scale confidently.
+</p>
+
+<p align="center">
+  <a href="https://devbase.yadavatech.com"><strong>Website</strong></a> ·
+  <a href="#documentation"><strong>Docs</strong></a> ·
+  <a href="#roadmap"><strong>Roadmap</strong></a> ·
+  <a href="#business-model"><strong>Business Model</strong></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-success" />
+  <img src="https://img.shields.io/badge/docs-available-blue" />
+  <img src="https://img.shields.io/badge/license-MIT-black" />
+</p>
 
 ---
 
-## ✨ Why DevBase?
+## What is DevBase?
 
-Building products from scratch wastes time.
+**DevBase** is a developer-first platform providing **production-ready SaaS starter kits,
+boilerplates, and foundations** so developers can launch real products faster.
 
-DevBase helps you:
-- Save 100+ development hours
-- Start with clean & scalable architecture
-- Focus on business, not boilerplate
-- Launch faster with confidence
+No tutorials.  
+No half-baked templates.  
+Just **clean, scalable, real-world foundations**.
 
 ---
 
-## 📦 What DevBase Offers
+## Why DevBase exists
+
+Most developers waste weeks setting up:
+- Authentication
+- Admin panels
+- APIs & backend structure
+- Payments & security basics
+
+DevBase removes that friction.
+
+You start with:
+- A solid architecture
+- Best practices already applied
+- Freedom to customize
+
+---
+
+## What DevBase Offers
 
 - SaaS starter kits
-- Android + Backend boilerplates
-- Admin panels & APIs
-- Authentication & payments ready setups
-- Clean folder structure & best practices
+- Android + backend boilerplates
+- Admin dashboards
+- API-ready backends
+- Clean folder structures
+- Scalable foundations
+
+Built for:
+**developers · freelancers · startups · agencies**
 
 ---
 
-## 📚 Documentation
+## Documentation
 
-All documentation lives inside the `docs/` directory.
+All documentation is available inside the `/docs` directory.
 
 - Introduction
 - Features
@@ -41,25 +77,41 @@ All documentation lives inside the `docs/` directory.
 
 ---
 
-## 🛣️ Roadmap
+## Roadmap
 
-See product roadmap → [ROADMAP.md](ROADMAP.md)
+See upcoming plans → [ROADMAP.md](ROADMAP.md)
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
-Community contributions will open soon.  
+DevBase is currently in active development.  
+Community contributions will open soon.
+
 Read → [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
-## 📩 Support & Contact
+## Business Model
 
-📧 Email: support@yadavatech.com  
-🌐 Website: https://devbase.yadavatech.com
+DevBase follows a **hybrid open + paid model**.
+
+- Free documentation
+- Free community resources
+- Paid starter kits & licenses
+
+Details → see below 👇
 
 ---
 
-Built with ❤️ by **Yadavatech**
+## Support & Contact
+
+📧 support@yadavatech.com  
+🌐 https://devbase.yadavatech.com
+
+---
+
+<p align="center">
+  Built with ❤️ by <strong>Yadavatech</strong>
+</p>
 
