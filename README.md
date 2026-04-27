@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://devbase.yadavatech.com">Website</a> ·
+  <a href="https://www.getdevbase.com">Website</a> ·
   <a href="#documentation">Documentation</a> ·
   <a href="#roadmap">Roadmap</a> ·
   <a href="#business-model">Business Model</a>
@@ -139,8 +139,8 @@ This model ensures:
 
 For support, partnerships, or licensing:
 
-📧 support@yadavatech.com  
-🌐 https://devbase.yadavatech.com  
+📧 support@getdevbase.com
+🌐 https://www.getdevbase.com
 
 ---
 
