@@ -1,11 +1,11 @@
- <p align="center">
+<p align="center">
   <img src="https://getdevbase.com/storage/app/app-icon-1775654880.png" width="110" alt="DevBase Logo">
 </p>
 
 <h1 align="center">DevBase</h1>
 
 <p align="center">
-  <strong>The Complete Developer Ecosystem to Build, Secure, and Scale.</strong>
+  <strong>A Developer Ecosystem to Build, Secure, Deploy, and Scale.</strong>
 </p>
 
 <p align="center">
@@ -14,35 +14,35 @@
 
 <p align="center">
   <a href="https://www.getdevbase.com">Website</a> ·
-  <a href="#ecosystem">Ecosystem</a> ·
+  <a href="#the-devbase-ecosystem">Ecosystem</a> ·
   <a href="#devbase-ai">DevBase AI</a> ·
   <a href="#devbase-shield">DevBase Shield</a> ·
   <a href="#roadmap">Roadmap</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/platform-Developer%20Ecosystem-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/AI-Coding%20Agent-purple?style=flat-square">
-  <img src="https://img.shields.io/badge/Security-Application%20Protection-green?style=flat-square">
-  <img src="https://img.shields.io/badge/status-Under%20Development-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/platform-Developer%20Ecosystem-blue?style=flat-square" alt="Platform: Developer Ecosystem">
+  <img src="https://img.shields.io/badge/AI-Coding%20Agent-purple?style=flat-square" alt="AI: Coding Agent">
+  <img src="https://img.shields.io/badge/Security-Application%20Protection-green?style=flat-square" alt="Security: Application Protection">
+  <img src="https://img.shields.io/badge/status-Under%20Development-orange?style=flat-square" alt="Status: Under Development">
 </p>
 
 ---
 
 ## 🚀 What Is DevBase?
 
-**DevBase is a developer-first ecosystem designed to help developers build, secure, deploy, and scale modern applications through AI-powered coding assistance, production-ready boilerplates, backend services, security SDKs, and developer tools.**
+**DevBase is a developer-first ecosystem designed to help developers build, secure, deploy, and scale modern applications through AI-powered coding assistance, production-oriented boilerplates, backend services, security SDKs, and developer tools.**
 
 Instead of building every component from scratch or managing disconnected tools, developers will be able to use the DevBase ecosystem to simplify their development workflow.
 
-DevBase brings together four major product areas:
+DevBase is organized around four major product areas, with capabilities at different stages of development:
 
 - **DevBase Build:** Production-ready starter kits, boilerplates, SDKs, and developer tools.
 - **DevBase Cloud:** Authentication, databases, storage, APIs, serverless functions, and cloud infrastructure.
 - **DevBase AI:** An AI coding agent for writing, understanding, debugging, and improving code.
 - **DevBase Shield:** Application security SDKs and centralized security monitoring for supported Android apps, websites, and backend services.
 
-Our vision is to make application development more productive, security more accessible, and backend integration easier for developers of all experience levels.
+Our vision is to make application development more productive, application security more accessible, and backend integration easier for developers of different experience levels.
 
 **Build smarter. Code faster. Stay protected. Scale confidently.**
 
@@ -423,7 +423,7 @@ DevBase is under development. The following roadmap represents the intended prod
 
 Roadmap priorities and release timelines may change based on feasibility, security validation, infrastructure readiness, and developer feedback.
 
-See [ROADMAP.md](ROADMAP.md).
+See [ROADMAP.md](ROADMAP.md) for the current intended product direction.
 
 ---
 
@@ -444,7 +444,7 @@ Planned documentation:
 - Usage limits and billing.
 - Troubleshooting and best practices.
 
-Start here: [`docs/index.md`](docs/index.md).
+Start here: [`docs/index.md`](docs/index.md), if the documentation index is included in your repository.
 
 ---
 
@@ -472,7 +472,7 @@ DevBase is under active development.
 
 Public repositories, contribution opportunities, and community guidelines will be announced as the project evolves.
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines when available.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the current contribution status and guidelines.
 
 ---
 
